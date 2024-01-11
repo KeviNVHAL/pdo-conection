@@ -1,0 +1,28 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("image/pexels-lina-kivaka-1458680.jpg");
+    background-size: cover;
+    margin: 0;
+    font-family: "Audiowide", sans-serif;
+}
+h1{
+    color: paleturquoise;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+ul li{
+    list-style: none;
+   color: cadetblue;
+}
+a:link {
+    text-decoration: none;
+    color: mediumpurple;
+    font-size: 40px;
+
+}
+
